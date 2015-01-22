@@ -1,0 +1,25 @@
+{
+  "name": "hapi-view-helpers-doc",
+  "version": "1.0.0",
+  "description": "Example project that demonstrates how to use view helpers in hapijs.",
+  "main": "server.js",
+  "dependencies": {
+    "handlebars": "^2.0.0",
+    "hapi": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manonthemat/hapi-view-helpers-doc"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manonthemat/hapi-view-helpers-doc/issues"
+  },
+  "homepage": "https://github.com/manonthemat/hapi-view-helpers-doc"
+}
